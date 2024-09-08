@@ -21,10 +21,10 @@ This personal experience sparked my interest in understanding how these dynamics
 
 
 ## Data Questions
-What is the distribution and characteristics of third places across different neighborhoods in Nashville?
-Is there an economic correlation between home values and the availability of third places?
-Is there an economic correlation between average household income and the availability of third places?
-How have income levels and home values changed over a ten year period (2012-2022)
+- What is the distribution and characteristics of third places across different neighborhoods in Nashville?
+- Is there an economic correlation between home values and the availability of third places?
+- Is there an economic correlation between average household income and the availability of third places?
+- How have income levels and home values changed over a ten year period (2012-2022)
 
 
 ## Sources and Tools
@@ -44,8 +44,8 @@ First I downloaded the Yelp dataset that was in a Tar file. I had some trouble e
 
 
 ## Conclusions
-• Both income levels and home values have experienced significant growth over the last decade. However, home values have increased at a significantly higher rate compared to income levels.
-• Since the correlation with home value growth is weak, it might indicate that home values alone are not a strong driver of third place availability. Factors related to income and economic conditions may play a more significant role in the presence of third places.
-• There is a notable correlation between areas with higher income growth rates and the number of third places. This may suggest that as neighborhoods become more affluent, they attract more businesses catering to varied social, recreational, and retail needs
-• The positive correlation with income growth might reflect gentrification effects. As income levels rise, neighborhoods might see new businesses and amenities, including third places, contributing to the community’s transformation.
+- Both income levels and home values have experienced significant growth over the last decade. However, home values have increased at a significantly higher rate compared to income levels.
+- Since the correlation with home value growth is weak, it might indicate that home values alone are not a strong driver of third place availability. Factors related to income and economic conditions may play a more significant role in the presence of third places.
+- There is a notable correlation between areas with higher income growth rates and the number of third places. This may suggest that as neighborhoods become more affluent, they attract more businesses catering to varied social, recreational, and retail needs
+- The positive correlation with income growth might reflect gentrification effects. As income levels rise, neighborhoods might see new businesses and amenities, including third places, contributing to the community’s transformation.
 While higher-income areas tend to have more third places, the rapid rise in home values compared to income growth suggests economic and social dynamics that impact the availability and nature of these community spaces. Addressing these disparities could help in fostering a more balanced and inclusive development of third places across the city.
