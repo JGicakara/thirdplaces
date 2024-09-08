@@ -35,7 +35,7 @@ This personal experience sparked my interest in understanding how these dynamics
 
 
 * Excel: data import, sorting/filtering, data cleaning functions (find & replace, remove duplicates, etc)
-* Python: exploratory data analysis (pandas), data aggregation, merging/joining
+* Python: exploratory data analysis (pandas), data aggregation, merging/joining, geospatial analyisi/mapping
 * Tableau: data visualization, calculated fields, interactivity
 
 
