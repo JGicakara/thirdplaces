@@ -30,9 +30,9 @@ Zillow (home values)
 American Community Survey (income levels)
 
 
-Excel -- Income data from the ACS were in separate workbooks for each year and zip code 
-Python/Pandas - for exploration and aggregation of the data
-Tableau - for creating interactive dashboard
+Excel: data import, sorting/filtering, data cleaning functions (find & replace, remove duplicates, etc)
+Python/Pandas - exploratory data analysis, data aggregation, merging/joining
+Tableau - data visualization, calculated fields, interactivity
 
 
 ## Setup
@@ -49,5 +49,5 @@ While higher-income areas tend to have more third places, the rapid rise in home
 
 ## Dashboard Link
 
-
+https://public.tableau.com/views/thirdcap/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
