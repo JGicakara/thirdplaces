@@ -1,14 +1,18 @@
 # Exploring Third Places in Nashville
 > This project aims to investigate the availability and distribution of third places—such as coffee shops, parks, and community centers—in Nashville, with an added focus on examining the relationship between neighborhood home values and income levels. Key objectives include the distribution and characteristics of third places across different neighborhoods and whether neighborhoods with higher home values and incomes have a larger number of these spaces. Additionally, I will assess how these home values and income levels have changed over a ten year period (2012-2022) to better understand their impact on the current availability of third places, particularly in the context of gentrification.
 
+
 ## Table of Contents
+* [Dashboard Link](#dashboard-link)
 * [Motivation](#motivation)
 * [Data Questions](#data-questions)
 * [Sources and Tools](#technologies)
 * [Setup](#setup)
 * [Conclusions](#conclusions)
-* [Dashboard Link](#dashboard-link)
 
+
+## Dashboard Link
+https://public.tableau.com/views/thirdcap/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ## Motivation
@@ -45,9 +49,3 @@ First I downloaded the Yelp dataset that was in a Tar file. I had some trouble e
 • There is a notable correlation between areas with higher income growth rates and the number of third places. This may suggest that as neighborhoods become more affluent, they attract more businesses catering to varied social, recreational, and retail needs
 • The positive correlation with income growth might reflect gentrification effects. As income levels rise, neighborhoods might see new businesses and amenities, including third places, contributing to the community’s transformation.
 While higher-income areas tend to have more third places, the rapid rise in home values compared to income growth suggests economic and social dynamics that impact the availability and nature of these community spaces. Addressing these disparities could help in fostering a more balanced and inclusive development of third places across the city.
-
-
-## Dashboard Link
-
-https://public.tableau.com/views/thirdcap/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
