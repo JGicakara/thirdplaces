@@ -16,7 +16,7 @@ https://public.tableau.com/views/thirdcap/Story1?:language=en-US&:sid=&:redirect
 
 
 ## Motivation
-- Growing up in Tennessee, I’ve witnessed firsthand the evolution of my childhood neighborhood in Chattanooga. As new developments have emerged these changes bring both positive and challenging impacts. On one hand, these new spaces offer exciting opportunities for socialization and community engagement, but on the other they have contributed to rising home values and living costs, which push out long-time residents who can no longer afford to stay in their neighborhoods. Ironically, many of these displaced individuals are unable to enjoy the very amenities that are transforming their communities. 
+Growing up in Tennessee, I’ve witnessed firsthand the evolution of my childhood neighborhood in Chattanooga. As new developments have emerged these changes bring both positive and challenging impacts. On one hand, these new spaces offer exciting opportunities for socialization and community engagement, but on the other they have contributed to rising home values and living costs, which push out long-time residents who can no longer afford to stay in their neighborhoods. Ironically, many of these displaced individuals are unable to enjoy the very amenities that are transforming their communities. 
 This personal experience sparked my interest in understanding how these dynamics are playing out more broadly across Nashville. With an increasing number of transplants moving to Tennessee and fueling local economic changes, it's important to explore how the availability and distribution of third places are influenced by gentrification. With my capstone, I aim to investigate the relationship between the current availability of third places and neighborhood home values and incomes. By analyzing data on home values, income levels, and the distribution of third places, I hope to provide insights into how economic changes are affecting access to these important spaces.
 
 
@@ -28,15 +28,15 @@ How have income levels and home values changed over a ten year period (2012-2022
 
 
 ## Sources and Tools
-Yelp (business listings)
-Nashville.gov (geospatial data)
-Zillow (home values)  
-American Community Survey (income levels)
+- Yelp (business listings)
+- Nashville.gov (geospatial data)
+- Zillow (home values)  
+- American Community Survey (income levels)
 
 
-Excel: data import, sorting/filtering, data cleaning functions (find & replace, remove duplicates, etc)
-Python/Pandas - exploratory data analysis, data aggregation, merging/joining
-Tableau - data visualization, calculated fields, interactivity
+* Excel: data import, sorting/filtering, data cleaning functions (find & replace, remove duplicates, etc)
+* Python: exploratory data analysis (pandas), data aggregation, merging/joining
+* Tableau: data visualization, calculated fields, interactivity
 
 
 ## Setup
